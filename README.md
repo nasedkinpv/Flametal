@@ -18,8 +18,8 @@ for its folder — the one with `Data` in it — and remembers it. The game's fi
 | Windows 10+ x86_64 | WebGPU over D3D12/Vulkan (SDL3) | builds; not yet tested |
 | Browser | WebGPU (Chrome, Edge) | first pass |
 
-Downloads are on the [Releases](../../releases) page. The 0.2.x releases there are the earlier,
-Wine-based Mac app.
+**Play in the browser:** https://nasedkinpv.github.io/Flametal/ (Chrome or Edge, with WebGPU).
+Downloads for macOS, Linux and Windows are on the [Releases](../../releases) page.
 
 ## Status
 
