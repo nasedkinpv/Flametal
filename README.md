@@ -14,9 +14,9 @@ for its folder — the one with `Data` in it — and remembers it. The game's fi
 |---|---|---|
 | macOS 26, Apple silicon | Metal 4 (ray-traced shadows on M3 and later) | plays |
 | iPadOS 26 | Metal 4 | plays; not distributed here yet |
-| Linux x86_64 | WebGPU over Vulkan (SDL3) | plays |
+| Linux x86_64 and arm64 (Asahi on Apple silicon too) | WebGPU over Vulkan (SDL3) | plays |
 | Windows 10+ x86_64 | WebGPU over D3D12/Vulkan (SDL3) | builds; not yet tested |
-| Browser | WebGPU (Chrome, Edge) | first pass |
+| Browser | WebGPU (Chrome, Edge) | plays; HD textures from your own pack |
 
 **Play in the browser:** https://nasedkinpv.github.io/Flametal/ (Chrome or Edge, with WebGPU).
 Downloads for macOS, Linux and Windows are on the [Releases](../../releases) page.
