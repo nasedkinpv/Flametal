@@ -32,3 +32,7 @@ complete or exact reproduction of Dungeon Keeper II.
 Developed in a separate repository; the releases here are built by its CI.
 Flametal's own code and content are licensed under the Apache License 2.0 ([LICENSE](LICENSE)).
 Dungeon Keeper II is copyright Electronic Arts; this project grants no rights to the game.
+
+## Credits
+
+Flametal grew out of DiaLight's [Flame](https://github.com/DiaLight/Flame), a decompilation and patch layer for the original game.
