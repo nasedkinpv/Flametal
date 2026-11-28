@@ -1,0 +1,11 @@
+Flametal
+Copyright (c) 2025-2026 the Flametal contributors.
+
+Flametal is an independent game engine compatible with user-supplied Dungeon Keeper 2 data. It is
+not affiliated with or endorsed by Electronic Arts. Its roots are in DiaLight's Flame
+(https://github.com/DiaLight/Flame); see LICENSE for what that inherited layer is and is not.
+
+Third-party code in libs/ keeps its own license beside it: Toml11 (MIT), lodepng (zlib), dr_mp3
+(public domain / MIT-0), and Dungeon-Generator by Adrian Kulawik (MIT,
+https://github.com/Adrian104/Dungeon-Generator, libs/dgen-8dfa5d2), whose BSP layouts make the
+generated maps (tools/dk2map/layout.py).
